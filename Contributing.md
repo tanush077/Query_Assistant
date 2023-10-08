@@ -1,6 +1,6 @@
-# Contributing to GUIApplication
+# Contributing to QueryAssistant
 
-Thank you for your interest in contributing to GUIApplication! Your contributions are highly appreciated. Please take a moment to read this document to understand how you can contribute to the project.
+Thank you for your interest in contributing to QueryAssistant! Your contributions are highly appreciated. Please take a moment to read this document to understand how you can contribute to the project.
 
 ## Table of Contents
 
@@ -15,10 +15,10 @@ Thank you for your interest in contributing to GUIApplication! Your contribution
 
 ### Reporting Bugs
 
-If you encounter a bug in GUIApplication, we appreciate your help in making it better. Please follow these steps:
+If you encounter a bug in QueryAssistant, we appreciate your help in making it better. Please follow these steps:
 
-1. Check the [issue tracker](https://github.com/your-username/GUIApplication/issues) to ensure the bug hasn't already been reported.
-2. If the bug isn't already reported, [open a new issue](https://github.com/your-username/GUIApplication/issues/new) with a clear description of the bug, including steps to reproduce it.
+1. Check the [issue tracker](https://github.com/your-username/QueryAssistant/issues) to ensure the bug hasn't already been reported.
+2. If the bug isn't already reported, [open a new issue](https://github.com/your-username/QueryAssistant/issues/new) with a clear description of the bug, including steps to reproduce it.
 
 ### Contributing Code
 
@@ -30,7 +30,7 @@ We welcome code contributions from the community. If you'd like to contribute co
 4. Write tests for your code when applicable.
 5. Commit your changes with a clear and concise commit message: `git commit -m "Your descriptive commit message"`.
 6. Push your changes to your fork: `git push origin feature/your-feature-name`.
-7. [Open a pull request](https://github.com/your-username/GUIApplication/compare) to the main repository.
+7. [Open a pull request](https://github.com/your-username/QueryAssistant/compare) to the main repository.
 
 
 ## Pull Request Process
@@ -45,8 +45,8 @@ When submitting a pull request:
 
 ## License
 
-By contributing to GUIApplication, you agree that your contributions will be licensed under the project's [LICENSE](LICENSE.md).
+By contributing to QueryAssistant, you agree that your contributions will be licensed under the project's [LICENSE](LICENSE.md).
 
 ---
 
-Thank you for your contributions to GUIApplication!
+Thank you for your contributions to QueryAssistant!
